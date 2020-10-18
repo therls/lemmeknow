@@ -1,3 +1,9 @@
+# Lemmeknow
+
+A web app that allows users to search through global news in order to find articles related to three specific categories: entertainment, sports, and technology.
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
