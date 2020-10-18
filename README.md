@@ -8,6 +8,6 @@ It was created to satisfy the coding challenge requirement for the  Capital One 
 ## How does it work?
 This web app... <Add this info AFTER completing the challenge!> 
 
+## Check it out
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Check out [Lemmeknow](https://google.com).
