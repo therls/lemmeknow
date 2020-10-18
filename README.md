@@ -5,8 +5,31 @@ Lemmeknow is a web app that allows users to search through global news in order 
 
 It was created to satisfy the coding challenge requirement for the  Capital One Software Engineering Summit application.
 
+Interested? See Lemmeknow in action [here](https://google.com) or check out the by following the instructions in the "Installation" section.
+
 ## How does it work?
 This web app... <Add this info AFTER completing the challenge!> 
-Interested? See [Lemmeknow](https://google.com) in action!
 
-*Note to self: change the link to the live app via Heroku!*
+## Installation
+
+First, make sure you have [Node.js](https://nodejs.org/en/download/) installed.
+
+*Optional: Install [Yarn](https://yarnpkg.com/getting-started/install)*
+
+Next, open the command line if on Windows or terminal if on Mac, cd into the project folder.
+
+Then, do the following:
+
+```bash
+npm start
+```
+
+OR
+
+```bash
+yarn start
+```
+
+A webpage *should* automatically open in a new tab.
+
+*Note to self: Change the link for the app to the live Heroku link after it is deployed! Also, update other sections as necessary.*
