@@ -5,7 +5,7 @@ Lemmeknow is a web app that allows users to search through global news in order 
 
 It was created to satisfy the coding challenge requirement for the  Capital One Software Engineering Summit application.
 
-Interested? See Lemmeknow in action [here](https://google.com) or check out the by following the instructions in the "Installation" section.
+Interested? See Lemmeknow in action [here](https://google.com) or check out the code by following the instructions in the ["Installation"](https://github.com/therls/lemmeknow#installation) section.
 
 ## How does it work?
 This web app... <Add this info AFTER completing the challenge!> 
