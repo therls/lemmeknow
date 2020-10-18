@@ -16,7 +16,7 @@ First, make sure you have [Node.js](https://nodejs.org/en/download/) installed.
 
 *Optional: Install [Yarn](https://yarnpkg.com/getting-started/install)*
 
-Next, open the command line if on Windows or terminal if on Mac, cd into the project folder.
+Next, open the command line if on Windows or terminal if on Mac, then cd into the project folder.
 
 Then, do the following:
 
