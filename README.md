@@ -7,7 +7,6 @@ It was created to satisfy the coding challenge requirement for the  Capital One 
 
 ## How does it work?
 This web app... <Add this info AFTER completing the challenge!> 
+Interested? See [Lemmeknow](https://google.com) in action!
 
-## Check it out
-
-Check out [Lemmeknow](https://google.com).
+*Note to self: change the link to the live app via Heroku!*
