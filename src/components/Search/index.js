@@ -1,13 +1,15 @@
 import React from 'react'
-import { SearchContainer, SearchContent, SearchH1, SearchBar, SearchInput } from './SearchElements'
+import { SearchContainer, SearchContent, SearchTitle, SearchBar, SearchInput, Icon } from './SearchElements'
 
 const Search = () => {
     return (
         <SearchContainer>
             <SearchContent>
-                <SearchH1>Lemmeknow</SearchH1>
+                <SearchTitle>Lemmeknow</SearchTitle>
                 <SearchBar>
-                    <SearchInput placeholder="Search"></SearchInput>
+                    <SearchInput placeholder="Search">
+                    </SearchInput>
+                    <Icon></Icon> {/*Activate the "clear all" button.*/}
                 </SearchBar>
             </SearchContent>
         </SearchContainer>
