@@ -38,8 +38,27 @@ export const SearchH1 = styled.h1`
     }
 `
 
-export const SearchBar = styled.h2`
-    color: #FF8484;
-    font-size: 32px;
-    text-align: center;
+export const SearchBar = styled.form`
+    /* width: 100%; */
+`
+
+export const SearchInput = styled.input`
+    width: 100%;
+    padding: 8px 16px;
+    margin: 8px 0;
+    border: none;
+    background: #F7D002;
+    border-radius: 4px;
+    display: inline-block;
+    color: #231651;
+    font-size: 18px;
+
+    ::placeholder {
+        color: #231651;
+    }
+
+    @media screen and (max-width: 768px) {
+        font-size: 12px;
+    }
+    
 `
