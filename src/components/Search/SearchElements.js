@@ -1,5 +1,5 @@
 import styled from 'styled-components'
-import { FaTimes } from 'react-icons/fa'
+import { FaSearch } from 'react-icons/fa'
 
 export const SearchContainer = styled.div`
     background: #231651;
@@ -67,7 +67,7 @@ export const SearchInput = styled.input`
     } 
 `
 
-export const Icon = styled(FaTimes)`
+export const Icon = styled(FaSearch)`
     color: #231651;
     position: absolute;
     bottom: 16px;
@@ -84,6 +84,6 @@ export const Icon = styled(FaTimes)`
 
     &:hover {
         cursor: pointer;
-        color: #CF3E24;
+        color: #5945A0;
     }
 `

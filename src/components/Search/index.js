@@ -2,15 +2,14 @@ import React from 'react'
 import { SearchContainer, SearchContent, SearchTitle, SearchBar, SearchInput, Icon } from './SearchElements'
 
 const Search = () => {
-
     return (
         <SearchContainer>
             <SearchContent>
                 <SearchTitle>Lemmeknow</SearchTitle>
-                <SearchBar>
-                    <SearchInput type="text" name="search" placeholder="Search">
+                <SearchBar className="search" action="">
+                    <SearchInput className="input" type="text" placeholder="Search">
                     </SearchInput>
-                    <Icon></Icon>
+                    <Icon type="submit"></Icon>
                 </SearchBar>
             </SearchContent>
         </SearchContainer>
