@@ -31,9 +31,13 @@
 }
 
 .news__title {
-  color: #231651;
   padding-bottom: 10px;
   border-bottom: 1px solid #231651;
+}
+
+.news__title a {
+  text-decoration: none;
+  color: #231651;
 }
 
 .news__desc {
