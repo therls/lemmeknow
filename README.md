@@ -1,4 +1,4 @@
-# Lemmeknow (Paused development)
+# Lemmeknow (paused development)
 
 ## What is it?
 Lemmeknow is a web app that allows users to search through global news in order to find articles related to three specific categories: entertainment, sports, and technology.
